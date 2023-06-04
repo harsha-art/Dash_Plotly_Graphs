@@ -6,13 +6,8 @@ import dash_bootstrap_components as dbc
 
 import plotly.express as px
 df = pd.read_csv("abnormal.csv",low_memory=False)
-# df = df.loc[
-#     ~(
-#         (df['Gender'] == 'Female') & (df['SGPT'].between(9, 53))
-#         | (df['Gender'] == 'Male') & (df['SGPT'].between(21, 72))
-#     )
-# ]
 app = dash.Dash(__name__,external_stylesheets=([dbc.themes.SIMPLEX]))
+
 app.layout = html.Div([
 
         html.Div([
