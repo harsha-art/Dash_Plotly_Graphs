@@ -108,4 +108,4 @@ def display_animated_graph(selection):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(port=1111)
