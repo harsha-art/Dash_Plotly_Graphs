@@ -1,10 +1,9 @@
 # Dash_Plotly_Graphs
 
 
+# Scatter 3D Check Point after Clustering.py
+
 https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/6b239080-b655-46d7-af59-77a10db3f34e
-
-
-Dash 
 
 # Radio Button With Loading Animation.py
 
