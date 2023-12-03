@@ -1,8 +1,14 @@
 # Dash_Plotly_Graphs
-A few graphs that I made for a hacakthon
+
+Dash 
 
 # Radio Button With Loading Animation.py
 ![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/62bc6a16-fb6c-4b84-b717-9f6b3b121b30)
+
+# Multiple Radio Groups And Graphs With Loading Animations.py
+
+![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/34109b5c-bf18-4486-8d50-19f6142b17ba)
+![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/65a0f6c6-a9f7-42c8-a53a-6d538fdbd752)
 
 
 # Scatter Plot With Customizable X axis.py
