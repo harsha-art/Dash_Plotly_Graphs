@@ -1,5 +1,10 @@
 # Dash_Plotly_Graphs
 
+# Compare Columns Of A DataSet
+
+![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/cf3f3447-78b9-4afb-af09-a197369d05fa)
+![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/0eeb18c5-4aa7-4ff3-ac4c-454ed230b3ae)
+
 
 # Scatter 3D To Check Point after Clustering.py
 
