@@ -7,7 +7,7 @@ Dash
 
 # Multiple Radio Groups And Graphs With Loading Animations.py
 
-![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/34109b5c-bf18-4486-8d50-19f6142b17ba)
+![287507034-34109b5c-bf18-4486-8d50-19f6142b17ba](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/caae9585-992e-4046-b18a-be5b2782f496)
 ![287507050-65a0f6c6-a9f7-42c8-a53a-6d538fdbd752](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/bb865ff0-d664-47bc-a3a4-d95775662104)
 
 
