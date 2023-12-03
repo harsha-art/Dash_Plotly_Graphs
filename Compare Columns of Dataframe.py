@@ -6,12 +6,12 @@ import dash_bootstrap_components as dbc
 
 import plotly.express as px
 df = pd.read_csv("abnormal.csv",low_memory=False)
-app = dash.Dash(__name__,external_stylesheets=([dbc.themes.SIMPLEX]))
 
+app = dash.Dash(__name__,external_stylesheets=([dbc.themes.SIMPLEX]))
 app.layout = html.Div([
 
         html.Div([
-            dcc.Markdown(children= "# Vital Culus",
+            dcc.Markdown(children= "# Compare Colums Of The Dataset",
             style={"text-align": "center", "font-size":"100%", "color":"black"})]),
 
         html.Div([
@@ -35,6 +35,7 @@ app.layout = html.Div([
                         {'label': 'ALKP04', 'value': 'ALKPO4'},
                 ],
                 value='Age',
+                inline=True,
                 style={"width": "50%"}
             ),
         ]),
@@ -61,6 +62,7 @@ app.layout = html.Div([
                     {'label': 'ALKP04', 'value': 'ALKPO4'},
                 ],
                 value='Gender',
+                inline=True,
                 style={"width": "50%"}
             ),
         ]),
@@ -85,15 +87,11 @@ def update_graph(x_axis, y_axis):
             x=x_axis,
             y=y_axis,
             title=y_axis+': by '+x_axis,
-            # facet_col='Borough',
-            # color='Borough',
-            # barmode='group',
             )
-    #barchart.show()
     barchart.update_layout(xaxis={'categoryorder':'total ascending'},
                            title={'xanchor':'center', 'yanchor': 'top', 'y':0.9,'x':0.5,})
 
     return (barchart)
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(port=3000)
