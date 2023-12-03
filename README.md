@@ -1,8 +1,6 @@
 # Dash_Plotly_Graphs
 A few graphs that I made for a hacakthon
 
+![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/e1934f19-2f04-4b0c-8880-4ea0503a0ed2)
+![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/8c6aef24-1d2e-49d3-b30f-cca469edb4d2)
 
-![alt text](![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/339e6ec8-4b2a-4fc9-8d39-2decc36e4b47)
-)
-![alt text](![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/43e0df18-a646-4c5f-b28b-194fd2df386d)
-)
