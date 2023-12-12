@@ -25,8 +25,7 @@ https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/7d196438-9b32-4
 
 You can select the product and the region from two radio groups and see two corresponding graphs. The app also shows loading animations while the graphs are being updated.
 
-![287507034-34109b5c-bf18-4486-8d50-19f6142b17ba](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/caae9585-992e-4046-b18a-be5b2782f496)
-![287507050-65a0f6c6-a9f7-42c8-a53a-6d538fdbd752](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/bb865ff0-d664-47bc-a3a4-d95775662104)
+![Web capture_12-12-2023_131218_127 0 0 1 jpeg](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/88052f4f-e43a-4fee-b340-9279f4f07a1f)
 
 
 
