@@ -36,3 +36,6 @@ This app displays a scatter plot of the relationship between two variables. You 
 ![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/e1934f19-2f04-4b0c-8880-4ea0503a0ed2)
 ![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/8c6aef24-1d2e-49d3-b30f-cca469edb4d2)
 
+# Multiple Graphs On A Single Page
+
+![image](https://github.com/harsha-art/Dash_Plotly_Graphs/assets/67546267/0fb0e555-39de-4345-839e-3c564938a7c8)
